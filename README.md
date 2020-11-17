@@ -1,5 +1,7 @@
 # RxJSDemo
 
+![demo image](https://raw.githubusercontent.com/ramitmukherjee/RxJS-Demo/main/demo.jpg)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
